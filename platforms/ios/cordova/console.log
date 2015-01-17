@@ -1,0 +1,835 @@
+2015-01-16 18:57:18.149 KidsKruiser[8061:419545] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/10C5ECAC-A9E7-4F99-8939-C2A8F2A0FD9F/Library/Cookies/Cookies.binarycookies
+2015-01-16 18:57:18.842 KidsKruiser[8061:419545] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 18:57:18.843 KidsKruiser[8061:419545] Multi-tasking -> Device: YES, App: YES
+2015-01-16 18:57:18.975 KidsKruiser[8061:419545] Unlimited access to network resources
+2015-01-16 18:57:19.006 KidsKruiser[8061:419545] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 18:57:22.621 KidsKruiser[8061:419545] Resetting plugins due to page load.
+2015-01-16 18:57:23.172 KidsKruiser[8061:419545] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/A5611FF6-03FA-410B-BDD0-1796665A143F/KidsKruiser.app/www/index.html
+2015-01-16 19:00:32.116 KidsKruiser[8150:420872] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/5BD084E7-F346-4B35-8FBA-3E51EA04F4F9/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:00:32.276 KidsKruiser[8150:420872] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:00:32.277 KidsKruiser[8150:420872] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:00:32.280 KidsKruiser[8150:420872] Unlimited access to network resources
+2015-01-16 19:00:32.283 KidsKruiser[8150:420872] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:00:32.535 KidsKruiser[8150:420872] Resetting plugins due to page load.
+2015-01-16 19:00:32.612 KidsKruiser[8150:420872] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/92C51E98-4D0A-4586-ADC7-EB5CE2A762E4/KidsKruiser.app/www/index.html
+2015-01-16 19:01:34.725 KidsKruiser[8225:421519] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/6499986D-FC02-4194-85C9-563B717BA200/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:01:34.863 KidsKruiser[8225:421519] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:01:34.864 KidsKruiser[8225:421519] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:01:34.866 KidsKruiser[8225:421519] Unlimited access to network resources
+2015-01-16 19:01:34.869 KidsKruiser[8225:421519] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:01:35.098 KidsKruiser[8225:421519] Resetting plugins due to page load.
+2015-01-16 19:01:35.173 KidsKruiser[8225:421519] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/7B01763F-0805-4F6C-9889-496EF1FEADE6/KidsKruiser.app/www/index.html
+2015-01-16 19:02:51.025 KidsKruiser[8321:422279] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/5F736B16-89C0-49A9-80E4-9AA0F7D0AE37/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:02:51.195 KidsKruiser[8321:422279] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:02:51.196 KidsKruiser[8321:422279] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:02:51.198 KidsKruiser[8321:422279] Unlimited access to network resources
+2015-01-16 19:02:51.201 KidsKruiser[8321:422279] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:02:51.451 KidsKruiser[8321:422279] Resetting plugins due to page load.
+2015-01-16 19:02:51.537 KidsKruiser[8321:422279] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/BF6C8F02-ED3F-4B82-90C8-43BA87A58371/KidsKruiser.app/www/index.html
+2015-01-16 19:02:54.328 KidsKruiser[8321:422279] THREAD WARNING: ['Geolocation'] took '10.201172' ms. Plugin should use a background thread.
+2015-01-16 19:03:13.271 KidsKruiser[8321:422279] locationManager::didFailWithError (null)
+2015-01-16 19:03:14.686 KidsKruiser[8321:422298] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-16 19:05:11.641 KidsKruiser[8410:423281] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/68342E84-0C0D-4A2A-8442-BF7EE4D778C8/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:05:11.797 KidsKruiser[8410:423281] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:05:11.798 KidsKruiser[8410:423281] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:05:11.800 KidsKruiser[8410:423281] Unlimited access to network resources
+2015-01-16 19:05:11.803 KidsKruiser[8410:423281] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:05:12.052 KidsKruiser[8410:423281] Resetting plugins due to page load.
+2015-01-16 19:05:12.124 KidsKruiser[8410:423281] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/FFB33FAD-B1AD-4750-9585-49DC6C659162/KidsKruiser.app/www/index.html
+2015-01-16 19:06:25.141 KidsKruiser[8491:423874] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/4D0E49B0-C427-4415-9E16-B8981964F452/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:06:25.294 KidsKruiser[8491:423874] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:06:25.295 KidsKruiser[8491:423874] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:06:25.297 KidsKruiser[8491:423874] Unlimited access to network resources
+2015-01-16 19:06:25.300 KidsKruiser[8491:423874] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:06:25.547 KidsKruiser[8491:423874] Resetting plugins due to page load.
+2015-01-16 19:06:25.619 KidsKruiser[8491:423874] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/548B4967-58D5-41EA-95F9-38793E20EB9D/KidsKruiser.app/www/index.html
+2015-01-16 19:06:33.358 KidsKruiser[8491:423874] locationManager::didFailWithError (null)
+2015-01-16 19:07:09.081 KidsKruiser[8569:424403] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/9FE63B9D-7CB4-4E85-9501-4E8ABA8195E0/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:07:09.194 KidsKruiser[8569:424403] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:07:09.194 KidsKruiser[8569:424403] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:07:09.196 KidsKruiser[8569:424403] Unlimited access to network resources
+2015-01-16 19:07:09.200 KidsKruiser[8569:424403] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:07:09.481 KidsKruiser[8569:424403] Resetting plugins due to page load.
+2015-01-16 19:07:09.554 KidsKruiser[8569:424403] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/D799307E-A3D2-42A3-9B6D-3C8393F3BD75/KidsKruiser.app/www/index.html
+2015-01-16 19:07:12.062 KidsKruiser[8569:424403] locationManager::didFailWithError (null)
+2015-01-16 19:07:40.136 KidsKruiser[8645:424781] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/63D3BD39-28A4-4C7D-9B6F-7A7CB1B082F2/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:07:40.287 KidsKruiser[8645:424781] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:07:40.288 KidsKruiser[8645:424781] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:07:40.290 KidsKruiser[8645:424781] Unlimited access to network resources
+2015-01-16 19:07:40.293 KidsKruiser[8645:424781] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:07:40.550 KidsKruiser[8645:424781] Resetting plugins due to page load.
+2015-01-16 19:07:40.622 KidsKruiser[8645:424781] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/3884EE0A-81E2-4DBC-A7EF-70726362F997/KidsKruiser.app/www/index.html
+2015-01-16 19:07:43.630 KidsKruiser[8645:424781] locationManager::didFailWithError (null)
+2015-01-16 19:10:35.676 KidsKruiser[8737:426021] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/831591E6-728D-40CB-9DCB-9BFF538D300E/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:10:35.838 KidsKruiser[8737:426021] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:10:35.839 KidsKruiser[8737:426021] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:10:35.841 KidsKruiser[8737:426021] Unlimited access to network resources
+2015-01-16 19:10:35.844 KidsKruiser[8737:426021] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:10:36.088 KidsKruiser[8737:426021] Resetting plugins due to page load.
+2015-01-16 19:10:36.162 KidsKruiser[8737:426021] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/E69A8D92-2A87-4DD3-AE9C-A7BEC7445B07/KidsKruiser.app/www/index.html
+2015-01-16 19:10:53.955 KidsKruiser[8737:426021] locationManager::didFailWithError (null)
+2015-01-16 19:11:32.116 KidsKruiser[8737:426037] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-16 19:18:25.457 KidsKruiser[9053:429893] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/80F6FC89-58BC-4B52-8EC7-DCCDBCB81A35/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:18:25.596 KidsKruiser[9053:429893] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:18:25.597 KidsKruiser[9053:429893] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:18:25.599 KidsKruiser[9053:429893] Unlimited access to network resources
+2015-01-16 19:18:25.616 KidsKruiser[9053:429893] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:18:25.966 KidsKruiser[9053:429893] Resetting plugins due to page load.
+2015-01-16 19:18:26.288 KidsKruiser[9053:429893] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/C633A36A-A2BF-4093-8ADE-BB1E23FA77A1/KidsKruiser.app/www/index.html
+2015-01-16 19:22:01.922 KidsKruiser[9053:429937] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-16 19:22:11.972 KidsKruiser[9053:429937] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-16 19:34:50.462 KidsKruiser[9488:434425] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/50484D1C-AA1B-479A-857A-0B27A4709479/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:34:50.820 KidsKruiser[9488:434425] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:34:50.821 KidsKruiser[9488:434425] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:34:50.851 KidsKruiser[9488:434425] Unlimited access to network resources
+2015-01-16 19:34:50.876 KidsKruiser[9488:434425] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:34:51.301 KidsKruiser[9488:434425] Resetting plugins due to page load.
+2015-01-16 19:34:51.513 KidsKruiser[9488:434425] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/664414B0-DB69-4BAB-8282-269F40C1EB56/KidsKruiser.app/www/index.html
+2015-01-16 19:35:24.273 KidsKruiser[9488:434638] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-16 19:36:36.222 KidsKruiser[9778:435932] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/D45701D3-A642-49A7-8CDD-16606FA31607/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:36:36.323 KidsKruiser[9778:435932] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:36:36.323 KidsKruiser[9778:435932] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:36:36.353 KidsKruiser[9778:435932] Unlimited access to network resources
+2015-01-16 19:36:36.382 KidsKruiser[9778:435932] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:36:36.775 KidsKruiser[9778:435932] Resetting plugins due to page load.
+2015-01-16 19:36:37.321 KidsKruiser[9778:435932] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/67E13D69-0324-4F0D-B4A7-FCA059FC5F04/KidsKruiser.app/www/index.html
+2015-01-16 19:39:44.111 KidsKruiser[10006:437822] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/591E14E2-76E7-4D01-B5EA-D8D2E804F8F5/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:39:44.353 KidsKruiser[10006:437822] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:39:44.353 KidsKruiser[10006:437822] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:39:44.355 KidsKruiser[10006:437822] Unlimited access to network resources
+2015-01-16 19:39:44.370 KidsKruiser[10006:437822] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:39:44.939 KidsKruiser[10006:437822] Resetting plugins due to page load.
+2015-01-16 19:39:45.298 KidsKruiser[10006:437822] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/CAF073C6-1523-46D7-85B3-81D3DA8B77AF/KidsKruiser.app/www/index.html
+2015-01-16 19:41:06.946 KidsKruiser[10006:437838] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-16 19:42:03.710 KidsKruiser[10006:437838] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2015-01-16 19:42:08.109 KidsKruiser[10149:439041] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/2A67586D-04ED-4271-AA67-5D37DBCE1C18/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:42:08.297 KidsKruiser[10149:439041] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:42:08.298 KidsKruiser[10149:439041] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:42:08.299 KidsKruiser[10149:439041] Unlimited access to network resources
+2015-01-16 19:42:08.325 KidsKruiser[10149:439041] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:42:08.773 KidsKruiser[10149:439041] Resetting plugins due to page load.
+2015-01-16 19:42:09.034 KidsKruiser[10149:439041] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/6CA7FA22-4326-42BB-9600-DCFA7A1C87B9/KidsKruiser.app/www/index.html
+2015-01-16 19:43:35.354 KidsKruiser[10290:439832] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/5E2B2E3E-FD50-4183-BA47-815D25348254/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:43:35.491 KidsKruiser[10290:439832] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:43:35.492 KidsKruiser[10290:439832] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:43:35.495 KidsKruiser[10290:439832] Unlimited access to network resources
+2015-01-16 19:43:35.497 KidsKruiser[10290:439832] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:43:35.736 KidsKruiser[10290:439832] Resetting plugins due to page load.
+2015-01-16 19:43:35.894 KidsKruiser[10290:439832] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/F26508C6-2136-488F-A9D5-CD9E72C5C5A4/KidsKruiser.app/www/index.html
+2015-01-16 19:47:27.206 KidsKruiser[10446:441321] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/2F242DFE-8C52-4245-9AAD-0501D36062A7/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:47:27.321 KidsKruiser[10446:441321] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:47:27.321 KidsKruiser[10446:441321] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:47:27.323 KidsKruiser[10446:441321] Unlimited access to network resources
+2015-01-16 19:47:27.326 KidsKruiser[10446:441321] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:47:27.662 KidsKruiser[10446:441321] Resetting plugins due to page load.
+2015-01-16 19:47:27.847 KidsKruiser[10446:441321] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/BAEDB90D-3725-4C16-BA88-79B4D98D8702/KidsKruiser.app/www/index.html
+2015-01-16 19:48:43.688 KidsKruiser[10580:442097] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/B86EE190-8552-4F64-B7BC-53F6D12351D4/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:48:43.852 KidsKruiser[10580:442097] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:48:43.853 KidsKruiser[10580:442097] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:48:43.855 KidsKruiser[10580:442097] Unlimited access to network resources
+2015-01-16 19:48:43.858 KidsKruiser[10580:442097] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:48:44.448 KidsKruiser[10580:442097] Resetting plugins due to page load.
+2015-01-16 19:48:44.695 KidsKruiser[10580:442097] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/CDAB32EF-41E6-438E-BA2A-6191E94F7E00/KidsKruiser.app/www/index.html
+2015-01-16 19:50:16.681 KidsKruiser[10719:442978] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/CAA46D32-9BB1-451B-AF3C-F95F75195886/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:50:16.821 KidsKruiser[10719:442978] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:50:16.822 KidsKruiser[10719:442978] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:50:16.824 KidsKruiser[10719:442978] Unlimited access to network resources
+2015-01-16 19:50:16.827 KidsKruiser[10719:442978] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:50:17.106 KidsKruiser[10719:442978] Resetting plugins due to page load.
+2015-01-16 19:50:17.259 KidsKruiser[10719:442978] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/035D1C2F-11EC-4FA3-89B2-19FE8805B74A/KidsKruiser.app/www/index.html
+2015-01-16 19:53:18.047 KidsKruiser[10872:444378] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/A0268C42-C5D7-499F-B4A6-DE7F9A7DF6BA/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:53:18.163 KidsKruiser[10872:444378] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:53:18.163 KidsKruiser[10872:444378] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:53:18.165 KidsKruiser[10872:444378] Unlimited access to network resources
+2015-01-16 19:53:18.168 KidsKruiser[10872:444378] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:53:18.358 KidsKruiser[10872:444378] Resetting plugins due to page load.
+2015-01-16 19:53:18.510 KidsKruiser[10872:444378] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/CBE94EF0-E2D3-4DD7-93D0-A0E11F9E96CE/KidsKruiser.app/www/index.html
+2015-01-16 19:55:54.733 KidsKruiser[11015:445682] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/892CAE8D-8EF3-4E9B-A849-1EC9F7B3D2EE/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:55:54.875 KidsKruiser[11015:445682] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:55:54.876 KidsKruiser[11015:445682] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:55:54.879 KidsKruiser[11015:445682] Unlimited access to network resources
+2015-01-16 19:55:54.882 KidsKruiser[11015:445682] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:55:55.130 KidsKruiser[11015:445682] Resetting plugins due to page load.
+2015-01-16 19:55:55.264 KidsKruiser[11015:445682] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/8C7E5A64-586B-4DC5-BC74-D8DCC246CF74/KidsKruiser.app/www/index.html
+2015-01-16 19:56:30.235 KidsKruiser[11144:446185] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/4CD11346-D6D0-4E72-8552-FCE218446D42/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:56:30.381 KidsKruiser[11144:446185] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:56:30.382 KidsKruiser[11144:446185] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:56:30.385 KidsKruiser[11144:446185] Unlimited access to network resources
+2015-01-16 19:56:30.389 KidsKruiser[11144:446185] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:56:30.666 KidsKruiser[11144:446185] Resetting plugins due to page load.
+2015-01-16 19:56:30.828 KidsKruiser[11144:446185] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/9593BD66-E6B7-4BE8-A445-458194CC190F/KidsKruiser.app/www/index.html
+2015-01-16 19:58:46.837 KidsKruiser[11283:447209] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/89ABF983-A8D0-406C-8B24-A33CC8D12A9B/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:58:46.995 KidsKruiser[11283:447209] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:58:46.996 KidsKruiser[11283:447209] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:58:47.134 KidsKruiser[11283:447209] Unlimited access to network resources
+2015-01-16 19:58:47.136 KidsKruiser[11283:447209] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:58:47.340 KidsKruiser[11283:447209] Resetting plugins due to page load.
+2015-01-16 19:58:47.489 KidsKruiser[11283:447209] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/A25FBA37-8F5B-474A-8A5C-0C2129061801/KidsKruiser.app/www/index.html
+2015-01-16 19:59:40.478 KidsKruiser[11414:447841] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/80C81B31-9FC4-4965-A90A-FF49DAD836F6/Library/Cookies/Cookies.binarycookies
+2015-01-16 19:59:40.615 KidsKruiser[11414:447841] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 19:59:40.616 KidsKruiser[11414:447841] Multi-tasking -> Device: YES, App: YES
+2015-01-16 19:59:40.618 KidsKruiser[11414:447841] Unlimited access to network resources
+2015-01-16 19:59:40.621 KidsKruiser[11414:447841] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 19:59:40.858 KidsKruiser[11414:447841] Resetting plugins due to page load.
+2015-01-16 19:59:41.012 KidsKruiser[11414:447841] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/26BE3109-1C3E-4496-A62B-F6ED6DC8E3C8/KidsKruiser.app/www/index.html
+2015-01-16 20:03:07.385 KidsKruiser[11559:449361] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/8FE3A38F-5D45-467D-8DE1-6D6CFCFC3F22/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:03:07.542 KidsKruiser[11559:449361] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:03:07.542 KidsKruiser[11559:449361] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:03:07.545 KidsKruiser[11559:449361] Unlimited access to network resources
+2015-01-16 20:03:07.549 KidsKruiser[11559:449361] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:03:07.797 KidsKruiser[11559:449361] Resetting plugins due to page load.
+2015-01-16 20:03:07.955 KidsKruiser[11559:449361] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/846C0C74-CA1D-4563-A8CF-77B84854673B/KidsKruiser.app/www/index.html
+2015-01-16 20:06:23.362 KidsKruiser[11823:450797] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/9123CC6F-583F-4A0A-8B80-D5C3644DD0B8/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:06:23.510 KidsKruiser[11823:450797] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:06:23.510 KidsKruiser[11823:450797] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:06:23.512 KidsKruiser[11823:450797] Unlimited access to network resources
+2015-01-16 20:06:23.515 KidsKruiser[11823:450797] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:06:23.776 KidsKruiser[11823:450797] Resetting plugins due to page load.
+2015-01-16 20:06:23.952 KidsKruiser[11823:450797] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/8F40805E-3A43-485F-BE27-16973B7BD3F3/KidsKruiser.app/www/index.html
+2015-01-16 20:15:39.674 KidsKruiser[12219:454135] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/2B2CA00B-8ADE-47DD-8F5D-23F4FA6BF182/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:15:39.771 KidsKruiser[12219:454135] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:15:39.772 KidsKruiser[12219:454135] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:15:39.774 KidsKruiser[12219:454135] Unlimited access to network resources
+2015-01-16 20:15:39.776 KidsKruiser[12219:454135] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:15:40.164 KidsKruiser[12219:454135] Resetting plugins due to page load.
+2015-01-16 20:15:40.336 KidsKruiser[12219:454135] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/96B3EE9D-B5AC-433B-8BCF-A535373CE112/KidsKruiser.app/www/index.html
+2015-01-16 20:20:07.749 KidsKruiser[12375:456012] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/7EC442AD-3257-41D8-BA30-9B02246340B2/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:20:07.825 KidsKruiser[12375:456012] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:20:07.826 KidsKruiser[12375:456012] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:20:07.828 KidsKruiser[12375:456012] Unlimited access to network resources
+2015-01-16 20:20:07.830 KidsKruiser[12375:456012] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:20:08.041 KidsKruiser[12375:456012] Resetting plugins due to page load.
+2015-01-16 20:20:08.191 KidsKruiser[12375:456012] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/681E790F-4D4C-462C-B436-D3297574DFE0/KidsKruiser.app/www/index.html
+2015-01-16 20:20:10.479 KidsKruiser[12375:456012] THREAD WARNING: ['Geolocation'] took '139.674805' ms. Plugin should use a background thread.
+2015-01-16 20:20:45.915 KidsKruiser[12508:456527] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/2A92281B-C74A-4A5E-962E-053EECF8B56F/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:20:46.079 KidsKruiser[12508:456527] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:20:46.080 KidsKruiser[12508:456527] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:20:46.082 KidsKruiser[12508:456527] Unlimited access to network resources
+2015-01-16 20:20:46.084 KidsKruiser[12508:456527] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:20:46.305 KidsKruiser[12508:456527] Resetting plugins due to page load.
+2015-01-16 20:20:46.509 KidsKruiser[12508:456527] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/70DB0E58-4EAB-44EA-AFC4-454538A2334F/KidsKruiser.app/www/index.html
+2015-01-16 20:22:57.713 KidsKruiser[12652:457638] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/58A446DF-89C4-4A2F-93B4-5400384C9AA6/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:22:57.867 KidsKruiser[12652:457638] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:22:57.867 KidsKruiser[12652:457638] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:22:57.870 KidsKruiser[12652:457638] Unlimited access to network resources
+2015-01-16 20:22:57.873 KidsKruiser[12652:457638] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:22:58.098 KidsKruiser[12652:457638] Resetting plugins due to page load.
+2015-01-16 20:22:58.239 KidsKruiser[12652:457638] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/F35C5A29-AF85-4782-9615-4A83F65D1C18/KidsKruiser.app/www/index.html
+2015-01-16 20:24:08.305 KidsKruiser[12787:458320] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/8053B691-A9EB-41A6-AD35-D9EF91B2D2A1/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:24:08.395 KidsKruiser[12787:458320] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:24:08.396 KidsKruiser[12787:458320] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:24:08.397 KidsKruiser[12787:458320] Unlimited access to network resources
+2015-01-16 20:24:08.400 KidsKruiser[12787:458320] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:24:08.642 KidsKruiser[12787:458320] Resetting plugins due to page load.
+2015-01-16 20:24:08.803 KidsKruiser[12787:458320] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/91180D0B-519B-4683-9AC5-FB81B135B58B/KidsKruiser.app/www/index.html
+2015-01-16 20:25:18.261 KidsKruiser[12962:459319] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/A127DFE7-3961-452A-B087-C017B6CDAF53/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:25:18.369 KidsKruiser[12962:459319] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:25:18.369 KidsKruiser[12962:459319] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:25:18.372 KidsKruiser[12962:459319] Unlimited access to network resources
+2015-01-16 20:25:18.374 KidsKruiser[12962:459319] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:25:18.971 KidsKruiser[12962:459319] Resetting plugins due to page load.
+2015-01-16 20:25:19.233 KidsKruiser[12962:459319] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/571511C2-B183-4C10-8F97-152C57B88EC0/KidsKruiser.app/www/index.html
+2015-01-16 20:29:52.960 KidsKruiser[13157:461342] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/39B34959-B41E-48C0-8103-EC0780B76330/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:29:53.064 KidsKruiser[13157:461342] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:29:53.064 KidsKruiser[13157:461342] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:29:53.066 KidsKruiser[13157:461342] Unlimited access to network resources
+2015-01-16 20:29:53.068 KidsKruiser[13157:461342] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:29:53.254 KidsKruiser[13157:461342] Resetting plugins due to page load.
+2015-01-16 20:29:53.409 KidsKruiser[13157:461342] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/B0411218-1B2A-43B5-A277-43086930D81D/KidsKruiser.app/www/index.html
+2015-01-16 20:30:29.409 KidsKruiser[13335:462207] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/3FE21218-2C1B-425E-9B21-957B0406544B/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:30:29.704 KidsKruiser[13335:462207] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:30:29.705 KidsKruiser[13335:462207] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:30:29.708 KidsKruiser[13335:462207] Unlimited access to network resources
+2015-01-16 20:30:29.711 KidsKruiser[13335:462207] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:30:30.379 KidsKruiser[13335:462207] Resetting plugins due to page load.
+2015-01-16 20:30:30.515 KidsKruiser[13335:462207] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/A85E1399-9B0C-45AF-B91A-D510894BE049/KidsKruiser.app/www/index.html
+2015-01-16 20:35:29.836 KidsKruiser[13494:464012] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/1D058A35-575B-442E-A47D-72DA8DF012AF/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:35:29.999 KidsKruiser[13494:464012] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:35:29.999 KidsKruiser[13494:464012] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:35:30.001 KidsKruiser[13494:464012] Unlimited access to network resources
+2015-01-16 20:35:30.003 KidsKruiser[13494:464012] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:35:30.278 KidsKruiser[13494:464012] Resetting plugins due to page load.
+2015-01-16 20:35:30.459 KidsKruiser[13494:464012] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/7638CC3E-C4F2-4503-9A42-CE30BBC57688/KidsKruiser.app/www/index.html
+2015-01-16 20:40:25.085 KidsKruiser[13494:464012] Failed to load webpage with error: The URL can’t be shown
+2015-01-16 20:40:27.182 KidsKruiser[13494:464012] Failed to load webpage with error: The URL can’t be shown
+2015-01-16 20:40:27.584 KidsKruiser[13494:464012] Failed to load webpage with error: The URL can’t be shown
+2015-01-16 20:40:28.438 KidsKruiser[13494:464012] Failed to load webpage with error: The URL can’t be shown
+2015-01-16 20:44:15.099 KidsKruiser[13670:467269] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/D74058E5-0E11-4A56-8206-077ABFE99885/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:44:15.269 KidsKruiser[13670:467269] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:44:15.270 KidsKruiser[13670:467269] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:44:15.273 KidsKruiser[13670:467269] Unlimited access to network resources
+2015-01-16 20:44:15.276 KidsKruiser[13670:467269] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:44:15.519 KidsKruiser[13670:467269] Resetting plugins due to page load.
+2015-01-16 20:44:15.684 KidsKruiser[13670:467269] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/F159EE63-D698-475A-A88F-06A28E36D8A3/KidsKruiser.app/www/index.html
+2015-01-16 20:47:37.511 KidsKruiser[13816:468655] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/471B4578-3026-411B-90DB-8CE328947D92/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:47:37.599 KidsKruiser[13816:468655] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:47:37.599 KidsKruiser[13816:468655] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:47:37.601 KidsKruiser[13816:468655] Unlimited access to network resources
+2015-01-16 20:47:37.603 KidsKruiser[13816:468655] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:47:37.824 KidsKruiser[13816:468655] Resetting plugins due to page load.
+2015-01-16 20:47:37.999 KidsKruiser[13816:468655] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/8E540357-DCEF-4F90-8193-3263DCC1C141/KidsKruiser.app/www/index.html
+2015-01-16 20:48:11.679 KidsKruiser[13948:469174] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/A1CD24A0-7102-4C7C-97A1-51A2FCBE5291/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:48:11.817 KidsKruiser[13948:469174] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:48:11.818 KidsKruiser[13948:469174] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:48:11.820 KidsKruiser[13948:469174] Unlimited access to network resources
+2015-01-16 20:48:11.824 KidsKruiser[13948:469174] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:48:12.082 KidsKruiser[13948:469174] Resetting plugins due to page load.
+2015-01-16 20:48:12.222 KidsKruiser[13948:469174] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/56F712C4-98CA-40DC-B861-13D159BE3232/KidsKruiser.app/www/index.html
+2015-01-16 20:50:55.034 KidsKruiser[14093:470438] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/73EAF147-06EC-485F-B877-A352029D09CA/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:50:55.189 KidsKruiser[14093:470438] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:50:55.189 KidsKruiser[14093:470438] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:50:55.191 KidsKruiser[14093:470438] Unlimited access to network resources
+2015-01-16 20:50:55.193 KidsKruiser[14093:470438] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:50:55.447 KidsKruiser[14093:470438] Resetting plugins due to page load.
+2015-01-16 20:50:55.637 KidsKruiser[14093:470438] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/DF77FBA6-5141-4B31-A91E-5BE4262FD7C0/KidsKruiser.app/www/index.html
+2015-01-16 20:51:25.759 KidsKruiser[14225:470880] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/FF30E08D-0F0E-4D46-9F54-C57C110A1067/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:51:25.838 KidsKruiser[14225:470880] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:51:25.838 KidsKruiser[14225:470880] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:51:25.840 KidsKruiser[14225:470880] Unlimited access to network resources
+2015-01-16 20:51:25.842 KidsKruiser[14225:470880] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:51:26.031 KidsKruiser[14225:470880] Resetting plugins due to page load.
+2015-01-16 20:51:26.181 KidsKruiser[14225:470880] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/9DF3E001-9B2C-4E02-83DA-861B5683698F/KidsKruiser.app/www/index.html
+2015-01-16 20:52:03.605 KidsKruiser[14356:471419] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/FA87CBD4-90BE-422E-B2C5-25860196FC58/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:52:03.687 KidsKruiser[14356:471419] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:52:03.687 KidsKruiser[14356:471419] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:52:03.689 KidsKruiser[14356:471419] Unlimited access to network resources
+2015-01-16 20:52:03.692 KidsKruiser[14356:471419] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:52:03.878 KidsKruiser[14356:471419] Resetting plugins due to page load.
+2015-01-16 20:52:04.039 KidsKruiser[14356:471419] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/8034FB6D-F933-4694-8491-D9830F287220/KidsKruiser.app/www/index.html
+2015-01-16 20:55:57.072 KidsKruiser[14551:473229] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/FE2486A2-A416-45E7-AF15-DEFEE72CF5D0/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:55:57.286 KidsKruiser[14551:473229] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:55:57.287 KidsKruiser[14551:473229] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:55:57.290 KidsKruiser[14551:473229] Unlimited access to network resources
+2015-01-16 20:55:57.293 KidsKruiser[14551:473229] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:55:58.039 KidsKruiser[14551:473229] Resetting plugins due to page load.
+2015-01-16 20:55:58.174 KidsKruiser[14551:473229] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/4B43481B-DE65-43FC-BC29-10C795181259/KidsKruiser.app/www/index.html
+2015-01-16 20:56:21.529 KidsKruiser[14724:473985] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/1EE92812-4818-45E0-9F1D-A9B7C23094AE/Library/Cookies/Cookies.binarycookies
+2015-01-16 20:56:21.659 KidsKruiser[14724:473985] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 20:56:21.659 KidsKruiser[14724:473985] Multi-tasking -> Device: YES, App: YES
+2015-01-16 20:56:21.661 KidsKruiser[14724:473985] Unlimited access to network resources
+2015-01-16 20:56:21.664 KidsKruiser[14724:473985] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 20:56:21.855 KidsKruiser[14724:473985] Resetting plugins due to page load.
+2015-01-16 20:56:21.988 KidsKruiser[14724:473985] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/940333E7-8A55-4579-A4D0-D9B31C731DDE/KidsKruiser.app/www/index.html
+2015-01-16 20:56:37.190 KidsKruiser[14724:474158] Terminating since there is no system app.
+2015-01-16 21:05:13.188 KidsKruiser[14914:476404] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/9FADE8EA-E982-4C37-9456-3369EBB61E72/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:05:13.300 KidsKruiser[14914:476404] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:05:13.301 KidsKruiser[14914:476404] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:05:13.303 KidsKruiser[14914:476404] Unlimited access to network resources
+2015-01-16 21:05:13.307 KidsKruiser[14914:476404] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:05:13.515 KidsKruiser[14914:476404] Resetting plugins due to page load.
+2015-01-16 21:05:13.645 KidsKruiser[14914:476404] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/ED28DAFC-B3C8-49F3-9F1F-413353A72E5D/KidsKruiser.app/www/index.html
+2015-01-16 21:05:38.507 KidsKruiser[15087:477122] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/4D682FEB-098F-4817-B00F-DF6C76CBE681/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:05:38.636 KidsKruiser[15087:477122] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:05:38.637 KidsKruiser[15087:477122] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:05:38.640 KidsKruiser[15087:477122] Unlimited access to network resources
+2015-01-16 21:05:38.642 KidsKruiser[15087:477122] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:05:38.854 KidsKruiser[15087:477122] Resetting plugins due to page load.
+2015-01-16 21:05:38.999 KidsKruiser[15087:477122] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/4E49B6EC-8D57-4E5A-BEF7-96B737D23286/KidsKruiser.app/www/index.html
+2015-01-16 21:05:59.387 KidsKruiser[15263:477865] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/CE8B3827-24FC-4361-93F0-A2016455D245/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:05:59.467 KidsKruiser[15263:477865] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:05:59.467 KidsKruiser[15263:477865] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:05:59.629 KidsKruiser[15263:477865] Unlimited access to network resources
+2015-01-16 21:05:59.689 KidsKruiser[15263:477865] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:06:00.712 KidsKruiser[15263:477865] Resetting plugins due to page load.
+2015-01-16 21:06:01.159 KidsKruiser[15263:477865] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/AE31E275-EC10-4C76-B8D8-9F0405C9C640/KidsKruiser.app/www/index.html
+2015-01-16 21:06:01.307 KidsKruiser[15263:477865] THREAD WARNING: ['Device'] took '48.589844' ms. Plugin should use a background thread.
+2015-01-16 21:07:55.148 KidsKruiser[15407:478875] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/FE8EE83C-F2B8-42C7-B25D-29EFF75B03B0/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:07:55.269 KidsKruiser[15407:478875] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:07:55.270 KidsKruiser[15407:478875] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:07:55.274 KidsKruiser[15407:478875] Unlimited access to network resources
+2015-01-16 21:07:55.277 KidsKruiser[15407:478875] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:07:55.498 KidsKruiser[15407:478875] Resetting plugins due to page load.
+2015-01-16 21:07:55.659 KidsKruiser[15407:478875] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/CBD1084D-5D1B-4890-AB71-E6F03CC16033/KidsKruiser.app/www/index.html
+2015-01-16 21:10:19.095 KidsKruiser[15690:480265] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/FD52F037-25B3-4233-9EDC-2C34C07F2D44/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:10:19.271 KidsKruiser[15690:480265] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:10:19.272 KidsKruiser[15690:480265] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:10:19.275 KidsKruiser[15690:480265] Unlimited access to network resources
+2015-01-16 21:10:19.278 KidsKruiser[15690:480265] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:10:19.499 KidsKruiser[15690:480265] Resetting plugins due to page load.
+2015-01-16 21:10:19.667 KidsKruiser[15690:480265] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/8FFA1CB5-755B-42D5-9BB1-7C768C050BF8/KidsKruiser.app/www/index.html
+2015-01-16 21:12:02.352 KidsKruiser[15938:481445] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/DE5F0B04-E96B-4E38-B1B2-DBAD919B4FBA/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:12:02.510 KidsKruiser[15938:481445] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:12:02.510 KidsKruiser[15938:481445] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:12:02.514 KidsKruiser[15938:481445] Unlimited access to network resources
+2015-01-16 21:12:02.517 KidsKruiser[15938:481445] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:12:02.749 KidsKruiser[15938:481445] Resetting plugins due to page load.
+2015-01-16 21:12:02.881 KidsKruiser[15938:481445] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/FF6C7B6B-8CE1-4129-BE2F-16247D00A02E/KidsKruiser.app/www/index.html
+2015-01-16 21:16:30.886 KidsKruiser[15938:481445] THREAD WARNING: ['Geolocation'] took '54.565918' ms. Plugin should use a background thread.
+2015-01-16 21:16:30.947 KidsKruiser[15938:481445] THREAD WARNING: ['Geolocation'] took '59.325928' ms. Plugin should use a background thread.
+2015-01-16 21:16:33.340 KidsKruiser[16207:483579] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/C19116B6-2D01-4E9A-9A53-A2E5EC4B12FC/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:16:33.486 KidsKruiser[16207:483579] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:16:33.487 KidsKruiser[16207:483579] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:16:33.489 KidsKruiser[16207:483579] Unlimited access to network resources
+2015-01-16 21:16:33.492 KidsKruiser[16207:483579] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:16:33.758 KidsKruiser[16207:483579] Resetting plugins due to page load.
+2015-01-16 21:16:33.910 KidsKruiser[16207:483579] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/5C0A192E-EFA6-408D-9CFA-9D87CD397524/KidsKruiser.app/www/index.html
+2015-01-16 21:19:36.700 KidsKruiser[16351:484811] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/71756C34-E069-4BDC-81BE-C47B44C465D3/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:19:36.847 KidsKruiser[16351:484811] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:19:36.848 KidsKruiser[16351:484811] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:19:36.851 KidsKruiser[16351:484811] Unlimited access to network resources
+2015-01-16 21:19:36.854 KidsKruiser[16351:484811] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:19:37.088 KidsKruiser[16351:484811] Resetting plugins due to page load.
+2015-01-16 21:19:37.234 KidsKruiser[16351:484811] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/99866C3D-0247-40AA-B6B2-CE7861CEFCE6/KidsKruiser.app/www/index.html
+2015-01-16 21:20:27.519 KidsKruiser[16625:485834] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/881959C8-EBFF-484F-BC10-E62316470269/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:20:27.831 KidsKruiser[16625:485834] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:20:27.832 KidsKruiser[16625:485834] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:20:27.879 KidsKruiser[16625:485834] Unlimited access to network resources
+2015-01-16 21:20:27.984 KidsKruiser[16625:485834] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:20:29.359 KidsKruiser[16625:485834] Resetting plugins due to page load.
+2015-01-16 21:20:30.014 KidsKruiser[16625:485834] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/C1EFC5A2-7E48-4B1F-BE24-615E12304CDA/KidsKruiser.app/www/index.html
+2015-01-16 21:24:21.476 KidsKruiser[16791:487610] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/37243194-7F82-4BBC-B68E-BBC0C92E6D8A/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:24:21.608 KidsKruiser[16791:487610] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:24:21.608 KidsKruiser[16791:487610] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:24:21.611 KidsKruiser[16791:487610] Unlimited access to network resources
+2015-01-16 21:24:21.615 KidsKruiser[16791:487610] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:24:21.954 KidsKruiser[16791:487610] Resetting plugins due to page load.
+2015-01-16 21:24:22.102 KidsKruiser[16791:487610] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/D4C23DF1-711B-477A-AFF1-2F081C741D67/KidsKruiser.app/www/index.html
+2015-01-16 21:24:41.378 KidsKruiser[16921:488048] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/316FE792-7C2A-4BB1-9677-BBF39ECED9D1/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:24:41.528 KidsKruiser[16921:488048] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:24:41.529 KidsKruiser[16921:488048] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:24:41.532 KidsKruiser[16921:488048] Unlimited access to network resources
+2015-01-16 21:24:41.535 KidsKruiser[16921:488048] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:24:41.780 KidsKruiser[16921:488048] Resetting plugins due to page load.
+2015-01-16 21:24:41.930 KidsKruiser[16921:488048] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/F6070CA4-3230-49A9-9A31-1CFC2B4293A8/KidsKruiser.app/www/index.html
+2015-01-16 21:25:17.261 KidsKruiser[17052:488612] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/88DC0C73-B79A-4E0A-B9B8-0B669707BA95/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:25:17.482 KidsKruiser[17052:488612] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:25:17.483 KidsKruiser[17052:488612] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:25:17.487 KidsKruiser[17052:488612] Unlimited access to network resources
+2015-01-16 21:25:17.493 KidsKruiser[17052:488612] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:25:17.911 KidsKruiser[17052:488612] Resetting plugins due to page load.
+2015-01-16 21:25:18.185 KidsKruiser[17052:488612] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/C72858FE-D144-43C7-863F-D8DFDC9B71ED/KidsKruiser.app/www/index.html
+2015-01-16 21:36:01.007 KidsKruiser[17283:493352] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/DF23ECC7-FE85-455F-9790-2D73027E7B1C/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:36:01.077 KidsKruiser[17283:493352] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:36:01.078 KidsKruiser[17283:493352] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:36:01.080 KidsKruiser[17283:493352] Unlimited access to network resources
+2015-01-16 21:36:01.082 KidsKruiser[17283:493352] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:36:01.313 KidsKruiser[17283:493352] Resetting plugins due to page load.
+2015-01-16 21:36:01.570 KidsKruiser[17283:493352] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/ABD98163-EBB2-4261-8A51-2A4426D7B0F3/KidsKruiser.app/www/index.html
+2015-01-16 21:36:30.064 KidsKruiser[17544:494308] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/AAA46585-C362-4579-85AE-876D58FECC59/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:36:30.414 KidsKruiser[17544:494308] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:36:30.415 KidsKruiser[17544:494308] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:36:30.466 KidsKruiser[17544:494308] Unlimited access to network resources
+2015-01-16 21:36:30.477 KidsKruiser[17544:494308] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:36:30.991 KidsKruiser[17544:494308] Resetting plugins due to page load.
+2015-01-16 21:36:31.149 KidsKruiser[17544:494308] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/D35A8A54-8179-41DA-BC27-5C9C0AE86B4B/KidsKruiser.app/www/index.html
+2015-01-16 21:51:20.668 KidsKruiser[18286:500521] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/12C5921D-0BF6-4DB9-BDA8-0AFA78E61382/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:51:20.970 KidsKruiser[18286:500521] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:51:20.971 KidsKruiser[18286:500521] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:51:20.973 KidsKruiser[18286:500521] Unlimited access to network resources
+2015-01-16 21:51:20.996 KidsKruiser[18286:500521] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:51:21.487 KidsKruiser[18286:500521] Resetting plugins due to page load.
+2015-01-16 21:51:21.616 KidsKruiser[18286:500521] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/3B6E2147-86AE-4B6F-B55E-8C7D105BF04F/KidsKruiser.app/www/index.html
+2015-01-16 21:52:07.818 KidsKruiser[18286:500521] THREAD WARNING: ['BarcodeScanner'] took '13.147949' ms. Plugin should use a background thread.
+2015-01-16 21:53:04.326 KidsKruiser[18494:502009] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Data/Application/41DE1516-7358-4192-9814-9FCEFA0ADC6C/Library/Cookies/Cookies.binarycookies
+2015-01-16 21:53:04.458 KidsKruiser[18494:502009] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-16 21:53:04.459 KidsKruiser[18494:502009] Multi-tasking -> Device: YES, App: YES
+2015-01-16 21:53:04.461 KidsKruiser[18494:502009] Unlimited access to network resources
+2015-01-16 21:53:04.465 KidsKruiser[18494:502009] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-16 21:53:04.667 KidsKruiser[18494:502009] Resetting plugins due to page load.
+2015-01-16 21:53:04.818 KidsKruiser[18494:502009] Finished load of: file:///Users/gavintodd/Library/Developer/CoreSimulator/Devices/267A250B-31B4-41A2-AC55-55F5DB345E8E/data/Containers/Bundle/Application/0501A549-7AD1-4EF6-9584-345360078369/KidsKruiser.app/www/index.html

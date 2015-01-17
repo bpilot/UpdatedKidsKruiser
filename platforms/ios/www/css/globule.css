@@ -1,0 +1,59 @@
+.globule { 
+		/*float: left;*/
+		text-align: center; 
+		position: relative; 
+		}
+		.globule > .glob-outline { 
+			background: #ececec; 
+			box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2), 0 -1px 0 #fff, 0 1px 0 #b4b4b4;
+			position: absolute; 
+			z-index: 500; 
+			width: 0; 
+			height: 0; 
+			left: 85px; 
+			top: 85px; 
+			border-radius: 85px; 
+			}
+			.globule > .glob-outline > .glob-bg { 
+				margin: 5%; 
+				width: 90%; 
+				height: 90%; 
+				position: absolute; 
+				z-index: 600; 
+				border-radius: 80px; 
+				-webkit-transition: background 0.5s ease-in-out;
+    		-moz-transition: background 0.5s ease-in-out;
+    		-o-transition: background 0.5s ease-in-out; 
+    		transition: background 0.5s ease-in-out;
+				}
+				
+/* Globule Sizing */
+/*	@media only screen and (min-width: 980px) {
+		.globule, .globule > .glob-outline { max-height: 140px; max-width: 140px; }
+	}
+	
+	@media only screen and (min-width: 1200px) {
+		.globule, .globule > .glob-outline { max-height: 170px; max-width: 170px; }
+	}*/
+
+
+
+a.red > .glob-outline > .glob-bg { background: #990b00; }
+a.green > .glob-outline > .glob-bg { background: #129900; }
+
+a.globule:hover { text-decoration: none; }
+
+/* Globule text */
+div.section_name { padding: 72px 0; padding-left: 20px; }
+div.section_name
+{
+    font-size: 26px;
+    font-weight: 400;
+    color: #ffffff;
+    position: relative;
+    z-index: 5000;
+    text-align: center;
+
+}
+
+
